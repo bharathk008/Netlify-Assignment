@@ -1,0 +1,27 @@
+.headder{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.defin{
+    background-color: antiquewhite;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.stat:visited{
+    color: green;
+}
+.stat:hover{
+    color: black;
+}
+
+.static{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size:x-large;
+    font-style: oblique;
+}
